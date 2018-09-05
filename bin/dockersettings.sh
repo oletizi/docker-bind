@@ -1,0 +1,2 @@
+bind_container_name=bind
+bind_image_name=oletizi/bind
